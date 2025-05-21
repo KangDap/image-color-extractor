@@ -1,6 +1,5 @@
-<h2 align="center">Image Color Extractor</h2>
+<h2 align="center">✨Image Color Extractor✨</h2>
 
-Pick 5 dominants color in an image.
-For using this app, please visit 
+Pick 5 dominant colors from any image.
 
-<a target="blank">https://image-color-extractor-kangdap.streamlit.app/</a>
+Try it [here](https://image-color-extractor-kangdap.streamlit.app/).
