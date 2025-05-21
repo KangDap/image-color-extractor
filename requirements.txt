@@ -1,7 +1,5 @@
 streamlit
 pillow
 numpy
-sklearn
+scikit-learn
 matplotlib
-io
-hashlib
